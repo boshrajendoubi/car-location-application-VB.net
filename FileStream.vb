@@ -1,0 +1,4 @@
+﻿
+Class FileStream
+
+End Class
